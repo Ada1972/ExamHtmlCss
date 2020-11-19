@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+h1{
+    text-align:center;
+    font-size:65px;
+  }
+img{
+    float:center;
+}
+table{
+    margin:auto;
+}
+td{
+    text-align: right;
+}
+
+h2{
+    color:yellow;
+    font-size:45px;
+    text-align:center;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+hr{
+    color:white
+}
+h3{
+    color:yellow;
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+}
+p.precio{
+    text-align: right;
+    font-size:20px ;
+}
+h4{
+        font-style: italic;
+        color: yellowgreen;
+}
+span{
+    font-size: 25px;
+    color: salmon;
+}
+
+#pie{
+    color:red;
+}
+
