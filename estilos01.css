@@ -1,3 +1,4 @@
+/*Color y fuente definido para todo el body*/
 body{
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -16,7 +17,6 @@ table{
 td{
     text-align: right;
 }
-
 h2{
     color:yellow;
     font-size:45px;
@@ -46,7 +46,6 @@ span{
     font-size: 25px;
     color: salmon;
 }
-
 #pie{
     color:red;
 }
